@@ -1,0 +1,18 @@
+.main-btn{
+    width:50%;
+    margin-top: 20px;
+}
+.sub-btn,.sub-ul{
+    width: 50%;
+}
+.sub-btn{
+    margin-left: 120px;
+}
+li{
+    list-style: none;
+    width:50%;
+}
+.item-btn{
+    width: 50%;
+    margin-left: 180px;
+}
